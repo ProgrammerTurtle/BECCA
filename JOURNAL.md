@@ -12,6 +12,8 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 ## 10/12/2025 - Began main design in OpenRocket!  
 
+October 9, 2025
+
 https://youtube.com/shorts/gNvArje5Xd0?si=vuMvOymdJTxdFPol
 
 
