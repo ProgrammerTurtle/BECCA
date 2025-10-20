@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **BECCA Rocket**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/370).
-
-
 ## 10/12/2025 - Began main design in OpenRocket!  
 
 October 9, 2025
@@ -24,5 +20,15 @@ Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lo
 
 https://youtu.be/hYiAdNOIe08?si=Jdsg4jdwsL-HfwnS
 Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b003315b6cbe182e6ae44511657bcb80950aabf0/image.png)
+  
+
+## 10/20/2025 - Made the Rocket Body  
+
+This should’ve been before the previous entry. I goofed a bit. Silly me. 
+https://youtu.be/RtJolXL5SqM?si=[C1JijgN1lWRmvwPi
+Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem
+
+![IMG_1756.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--2bb3024a1e163669fd74ce00f4dcce822b4ac8ce/IMG_1756.jpeg)
+
   
 
