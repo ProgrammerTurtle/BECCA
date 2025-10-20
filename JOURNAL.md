@@ -20,3 +20,9 @@ https://youtube.com/shorts/gNvArje5Xd0?si=vuMvOymdJTxdFPol
 Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem Ipsum lorem ipsum lorem ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--ee45be2aa68879f03665c9f8198d2304cce4340a/image.png)
   
 
+## 10/19/2025 - Finished the Fin Can  
+
+https://youtu.be/hYiAdNOIe08?si=Jdsg4jdwsL-HfwnS
+Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b003315b6cbe182e6ae44511657bcb80950aabf0/image.png)
+  
+
