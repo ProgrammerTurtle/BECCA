@@ -32,3 +32,13 @@ Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lo
 
   
 
+## 10/27/2025 - Avionics Bay  
+
+https://youtu.be/tT5vp-sCUd0?si=WPK8fKD0O60p0xTk
+
+Designed avionics bay, which includes black powder parachute charges and flight computers. 
+
+Ipsum Lorem Ipsum Lorem 
+![BECCA-ROCKET_v23](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--edb446350d392fe9e7f534824cceda6384e4101f/BECCA-ROCKET_v23.png)
+  
+
