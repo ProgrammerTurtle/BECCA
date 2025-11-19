@@ -1,11 +1,22 @@
 # BECCA
+<p align="center">
+<img width="3286" height="1029" alt="image" src="https://github.com/user-attachments/assets/6d153d98-3e84-406b-bb5c-22c0774657f3" />
+<p/>
+  
 BECCA stands for **Big Engine Certification Completion Attempt**.
+
 This is a fully custom designed L1 Certification rocket that:
+
 - Stands at 5 Feet Tall
+
 - Has a main body diameter of 3 inches
+
 - Will reach an apogee of 1 mile
+
 - Will reach a max speed of mach 0.8
+
 - Will fly on an Aerotech I500 DMS Engine
+
 <p align="center">
 <img width="200" height="800" alt="image" src="https://github.com/user-attachments/assets/51aa3871-609f-4c71-a960-cd52b96e582c" />
 <img width="200" height="800" alt="image" src="https://github.com/user-attachments/assets/6631abe8-59e1-45a7-bc68-3ac799a24eda" />
