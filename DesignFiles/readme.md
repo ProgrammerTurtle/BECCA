@@ -1,1 +1,1 @@
-Simulation and cad files. 
+Simulation, CAD, and BOM files for BECCA.
