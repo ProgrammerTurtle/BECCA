@@ -11,11 +11,11 @@ This is a fully custom L1 Certification rocket that:
 
 - Has a main body diameter of 3 inches
 
-- Will reach an apogee of 1 mile
+- Will reach a max altitude of 1 mile
 
 - Will reach a max speed of Mach 0.8
 
-- Will fly on an Aerotech I500 DMS Engine
+- Will fly on an Aerotech I500 Single-Use Solid Rocket Engine
 
 <p align="center">
 <img width="200" height="800" alt="image" src="https://github.com/user-attachments/assets/51aa3871-609f-4c71-a960-cd52b96e582c" />
