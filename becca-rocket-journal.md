@@ -351,4 +351,90 @@ After installing the shock cord mounts, I was no ready to epoxy everything in pl
 
 And that's it! Turned out quite a bit rougher than expected but it's nothing I can't fix with some Bondo and filler putty. And sanding. So much sanding. 
 
+# 2/12/2026 - Made bulkheads and AV Bay
+_Time spent: 1.5h_
 
+I had to make a whole new coupler but that's ok. This time I incorporated the switch band from the start. I also had to laser cut bulkheads and design a new sled for new electronics. Easy enough! Here are how those turned out:
+
+<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/832a5785-4624-4cce-a37f-5ebfad5a116d" />
+
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/ffe3f246-ac1e-4526-993b-a03e690389c7" />
+
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/0e8e1484-e6ad-4298-ae0e-b32a01cf0fe9" />
+
+I got a fancy new computer from a buddy that does both gps and flight control stuff and is super small. It will be test flying on my L1 for one of it's first flights, as a backup computer. 
+The white parts are all printed out of sunlu ABS-GF. I love the stuff! 
+
+# 2/20/2026 - Bondo day. 
+_Time spent: 3h_
+
+Today was bondo day. I spent a few hours applying it... in my bedroom. Not my brightest choice but I had a full face respirator so it worked out. 
+
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/eaf37576-4630-4c8a-8edd-854432f3cbf6" />
+
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/2d9ae3f5-7c28-4e5d-81e1-05796b03a985" />
+
+It went on a little thick, but thankfully, it is easy to sand. I was just trying to fill all the little gaps and divots and stuff, which I did manage to do. I just had to go a little bit overboard first. I will not be doing this again - I have since learned you can thin bondo with acetone. Whoops. 
+
+My room stank for weeks. 
+
+
+# 2/23/2026 - Sanding sanding sanding!!
+_Time spent: 4h_
+
+I spent 4 hours sanding. Yeah. My hands are dead. It wass a mix of manual sanding and using an orbital sander. 
+
+<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/3622b545-734e-40eb-853a-0ab0254d06a6" />
+
+Here's me in my respirator! Bondo dust is gross. This is when I was using the orbital sander. 
+
+<img width="486" height="877" alt="image" src="https://github.com/user-attachments/assets/d7197fb0-b6e9-46c0-9159-826f62502627" />
+
+It turned out real nice though! It looks like a rocket! Coupler fits, everything is the right size, it's quite smooth now. Yay!! I also used some epoxy putty during this process to get some spots the bondo missed as the epoxy putty is way thicker. 
+
+<img width="1189" height="848" alt="image" src="https://github.com/user-attachments/assets/331bafed-befa-4b81-998d-8ba35049d780" />
+
+I love epoxy putty. Man, is it nice to work with. You cut some off, mix it, and just apply it. That's it. Doesn't even stink much.
+
+With that, all that's left is paint.
+
+# 3/2/2026 - Paint!
+_Time spent: 3h_
+
+Had to wait a while for good weather so I could paint. 
+
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/31660d10-c023-44e5-8dd4-a503b3a1fc7a" />
+
+I started with filler primer. This sutff was just once again to fill any little gaps. 
+
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/7d013a1c-ab23-4cc1-9933-0740a2db7be6" />
+
+This stuff. Super nice. 
+
+From there, it was on to color. 
+
+<img width="676" height="909" alt="image" src="https://github.com/user-attachments/assets/ce2214ed-c1e9-462f-9ce0-40fd9661ca1e" />
+
+This was my setup. I had this little stand I tied the sections to and then I painted each section the final color. I believe each section got about 3 coats? Man, it is looking good.
+
+
+# 3/5/2026 - Decals and Clear Coat. We are done.
+
+This is the last entry of build. Because, well, it's built. 
+
+<img width="676" height="894" alt="image" src="https://github.com/user-attachments/assets/3df44031-c8cf-4edd-afc2-4558be209945" />
+
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/7e046fd8-b340-4c78-937a-e41585ac2fea" />
+
+<img width="1180" height="887" alt="image" src="https://github.com/user-attachments/assets/67f5b617-e875-4e38-be20-37b2933829c0" />
+
+I made the decals at school using the school printer and a Cricut vinyl cutter. I printed out the design and the cricut would scan and cut it. One for my sponsor, Sunlu, and one for the name, BECCA. They look soooo good.
+
+One last coat of clearcoat over the decals to make sure they stay on and... We are done! 
+
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/179af31b-1306-4d17-b8d8-9aca7b6471e3" />
+
+<img width="2160" height="3085" alt="image" src="https://github.com/user-attachments/assets/4b1904d7-3fad-4eea-80e4-4cb8aad4fb45" />
+
+It looks so awesome. I am so so excited to finally have this bad boy built. It was a long process with a lot of learning on the way and I can't wait for my next build. This will launch as soon as the fire bans lift on our launch site. So... probably this fall :(
+Ta ta for now. This was fun. 
