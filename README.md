@@ -17,6 +17,10 @@
 
 ## BECCA utilizes a dual-separation dual-deploy parachute system 
 
+<p align="center">
+<img width="3572" height="456" alt="beccaexplodednew" src="https://github.com/user-attachments/assets/a77405c3-b56d-4494-81ae-7c1bde4e8007" />
+<p/>
+
 - **APOGEE** : A smaller **15-inch parachute**, called the **Drogue parachute**, deploys via electronically detonated black powder charges. 
 This slows down descent to a safer velocity, but still fast enough to (hopefully) not drift very far. 
 
@@ -37,3 +41,7 @@ This slows down descent to a safer velocity, but still fast enough to (hopefully
 - All filament for this project was sponsored by [SUNLU](https://www.sunlu.com/). 
 
 - This project was also partially funded with a grant from [HackClub's](https://hackclub.com/) Blueprint Program. 
+
+<p align="center">
+<img width="5709" height="755" alt="Untitled design" src="https://github.com/user-attachments/assets/761aee7c-c9e2-433a-82a5-7ddde07902dc" />
+<p/>
